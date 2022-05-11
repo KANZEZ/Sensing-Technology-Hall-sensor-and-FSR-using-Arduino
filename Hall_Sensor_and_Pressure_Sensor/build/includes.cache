@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "c:\\Users\\29180\\Desktop\\Hall_Sensor_and_Pressure_Sensor\\build\\sketch\\Hall_Sensor_and_Pressure_Sensor.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
